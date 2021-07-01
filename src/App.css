@@ -54,7 +54,6 @@
 .inactiveLink {
   color: whitesmoke !important;
   text-shadow: 2px 2px 3px black;
-  padding: 2em;
   padding-left: 1em !important;
   padding-right: 1em !important;
   text-decoration: none;
@@ -67,6 +66,7 @@
 .Ctinfo {
   color: whitesmoke !important;
   text-shadow: 2px 2px 3px black;
+  padding: 2em;
   padding-left: 1em !important;
   padding-right: 1em !important;
   text-decoration: none;
