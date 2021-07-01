@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/bmasaala/static/css/main.b42ac78f.chunk.css",
+    "main.js": "/bmasaala/static/js/main.75ed5a36.chunk.js",
+    "main.js.map": "/bmasaala/static/js/main.75ed5a36.chunk.js.map",
+    "runtime-main.js": "/bmasaala/static/js/runtime-main.70a6f852.js",
+    "runtime-main.js.map": "/bmasaala/static/js/runtime-main.70a6f852.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/bmasaala/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.0ef1bce2.chunk.js": "/bmasaala/static/js/2.0ef1bce2.chunk.js",
+    "static/js/2.0ef1bce2.chunk.js.map": "/bmasaala/static/js/2.0ef1bce2.chunk.js.map",
+    "static/js/3.39854ad2.chunk.js": "/bmasaala/static/js/3.39854ad2.chunk.js",
+    "static/js/3.39854ad2.chunk.js.map": "/bmasaala/static/js/3.39854ad2.chunk.js.map",
+    "index.html": "/bmasaala/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/bmasaala/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.b42ac78f.chunk.css.map": "/bmasaala/static/css/main.b42ac78f.chunk.css.map",
+    "static/js/2.0ef1bce2.chunk.js.LICENSE.txt": "/bmasaala/static/js/2.0ef1bce2.chunk.js.LICENSE.txt",
+    "static/media/Bikaner.3c480713.png": "/bmasaala/static/media/Bikaner.3c480713.png",
+    "static/media/Card1.6c6b1331.jpg": "/bmasaala/static/media/Card1.6c6b1331.jpg",
+    "static/media/Card2.098f1f8e.jpg": "/bmasaala/static/media/Card2.098f1f8e.jpg",
+    "static/media/Card3.f5b564d1.jpg": "/bmasaala/static/media/Card3.f5b564d1.jpg",
+    "static/media/Fmcg.e965ad3a.png": "/bmasaala/static/media/Fmcg.e965ad3a.png",
+    "static/media/Fssai.861082d1.png": "/bmasaala/static/media/Fssai.861082d1.png",
+    "static/media/Gal1.f829a1d7.jpg": "/bmasaala/static/media/Gal1.f829a1d7.jpg",
+    "static/media/Gal2.dafcd3f4.jpg": "/bmasaala/static/media/Gal2.dafcd3f4.jpg",
+    "static/media/Gal3.82cdbb29.jpg": "/bmasaala/static/media/Gal3.82cdbb29.jpg",
+    "static/media/GalSm1.1cf0c532.jpg": "/bmasaala/static/media/GalSm1.1cf0c532.jpg",
+    "static/media/GalSm2.74198cf1.jpg": "/bmasaala/static/media/GalSm2.74198cf1.jpg",
+    "static/media/GalSm3.00b74807.jpg": "/bmasaala/static/media/GalSm3.00b74807.jpg",
+    "static/media/LogoBm.1f79ee72.png": "/bmasaala/static/media/LogoBm.1f79ee72.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70a6f852.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.0ef1bce2.chunk.js",
+    "static/css/main.b42ac78f.chunk.css",
+    "static/js/main.75ed5a36.chunk.js"
+  ]
+}
